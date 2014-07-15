@@ -1,4 +1,4 @@
-<?php namespace Illuminate\Support\Facades;
+<?php namespace Siteshop\Html\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
