@@ -1,0 +1,23 @@
+{
+    "name": "siteshop/htmltools",
+    "description": "Advanced HtmlBuilder & FormBuilder for Laravel 4",
+    "keywords": ["laravel", "htmlbuilder", "formbuilder"],
+    "license": "Proprietary",
+    "authors": [
+        {
+            "name": "Marian Oancea",
+            "email": "contact@siteshop.ro"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*",
+        "illuminate/html": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Siteshop\\Html": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
